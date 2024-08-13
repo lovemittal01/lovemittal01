@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on the MERN stack.
 - 🌱 I’m currently learning Node.
 - 👯 I’m looking to collaborate on React & Node.
-- 🤔 I’m looking for help with NGINX and Docker.
 - 💬 Ask me about React & Javascript & CSS.
 - 📫 How to reach me: lovemittal09@gmail.com
 - 😄 Pronouns: he/him
