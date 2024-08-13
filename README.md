@@ -1,6 +1,6 @@
-## Hi there 👋, I am Love Mittal
+**Hi there 👋, I am Love Mittal**
 
-## "Welcome to my world of innovation and creativity,"
+**"Welcome to my world of innovation and creativity,"**
 
 - 🔭 I’m currently working on the MERN stack.
 - 🌱 I’m currently learning Node.
